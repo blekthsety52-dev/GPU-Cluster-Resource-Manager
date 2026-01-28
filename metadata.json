@@ -1,0 +1,5 @@
+{
+  "name": "GPU Cluster Resource Manager",
+  "description": "A high-performance dashboard for managing distributed GPU clusters, provisioning nodes, monitoring hardware telemetry, and allocating resources for deep learning workloads.",
+  "requestFramePermissions": []
+}
